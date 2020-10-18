@@ -15,6 +15,6 @@ imap_server = ''
 ```
 [module/inbox-imap-python]
 type = custom/script
-exec = path/to/check.py
+exec = /path/to/check.py
 interval = 60
 ```
