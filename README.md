@@ -2,6 +2,12 @@
 
 A script that shows if there are unread mails in your IMAPs inbox. 
 
+## Font
+
+Font Awesome 5 Free Solid
+
+`pacman -S ttf-font-awesome`
+
 ## Configuration
 
 ```
@@ -15,6 +21,6 @@ imap_server = ''
 ```
 [module/inbox-imap-python]
 type = custom/script
-exec = /path/to/check.py
+exec = /path/to/inbox-imap-python.py
 interval = 60
 ```
