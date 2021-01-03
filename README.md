@@ -48,7 +48,7 @@ A script that displays information about the current track, copyed from [this](h
 [module/player-cmus]
 type = custom/script
 exec = /path/to/player-cmus.sh
-interval = 5
+interval = 1
 click-left = cmus-remote -n &
 click-right = cmus-remote -r &
 click-middle = cmus-remote -u &
