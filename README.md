@@ -41,7 +41,7 @@ label-maxlen = 20
 
 ## player-cmus.sh
 
-A script copyed from [this](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/player-cmus) scripts.
+A script that displays information about the current track, copyed from [this](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/player-cmus) scripts.
 
 ### Module
 
