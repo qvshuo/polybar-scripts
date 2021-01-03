@@ -4,9 +4,7 @@ A script that shows if there are unread mails in your IMAPs inbox.
 
 ## Font
 
-Font Awesome 5 Free Solid
-
-`pacman -S ttf-font-awesome`
+`yay -S ttf-material-design-icons-git`
 
 ## Configuration
 
