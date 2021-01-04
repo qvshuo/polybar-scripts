@@ -29,5 +29,5 @@ fi
 if [ -n "$weather" ]; then
     weather_temp=$(echo "$weather" | jq ".main.temp" | cut -d "." -f 1)
 
-    echo "Te:" "$weather_temp $SYMBOL"
+    echo "T:" "$weather_temp $SYMBOL"
 fi

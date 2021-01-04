@@ -35,7 +35,6 @@ A script that shows if there are unread mails in your IMAPs inbox. Inspired by [
 type = custom/script
 exec = /path/to/openweathermap-mini.sh
 interval = 600
-label-font = 3
 label-maxlen = 20
 ```
 
