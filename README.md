@@ -26,8 +26,6 @@ label-maxlen = 20
 
 A script that displays temperatures for the current weather.
 
-A script that shows if there are unread mails in your IMAPs inbox. Inspired by [this](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/openweathermap-simple) script.
-
 ### Module
 
 ```
