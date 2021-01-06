@@ -24,7 +24,7 @@ label-maxlen = 20
 
 ## openweathermap-mini.sh
 
-A script that displays temperatures for the current weather.
+A script that displays temperatures for the current weather. Inspired by [this](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/openweathermap-simple) script.
 
 ### Module
 
