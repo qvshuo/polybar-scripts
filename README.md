@@ -36,16 +36,6 @@ interval = 600
 label-maxlen = 20
 ```
 
-## player-cmus.sh
-
-A script that displays information about the current track, copyed from [this](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/player-cmus) scripts.
-
-### Module
-
-[module/player-cmus]
-type = custom/script
-exec = /path/to/player-cmus.sh
-interval = 1
 click-left = cmus-remote -n &
 click-right = cmus-remote -r &
 click-middle = cmus-remote -u &
