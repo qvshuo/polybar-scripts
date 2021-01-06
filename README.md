@@ -26,6 +26,19 @@ label-maxlen = 20
 
 A script that displays temperatures for the current weather. Inspired by [this](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/openweathermap-simple) script.
 
+## Configuration
+
+If `CITY` is left empty, the location is retrieved via the Mozilla Location API. `CITY` can either be a city ID (e.g. ID of Berlin is `2950159`), city name (e.g. `Berlin`) or city name + country code (e.g. `Berlin,DE`).
+
+Change these values:
+
+```
+KEY=""
+CITY=""
+UNITS="metric"
+SYMBOL="°"
+```
+
 ### Module
 
 ```
