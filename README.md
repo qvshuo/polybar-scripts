@@ -35,8 +35,3 @@ exec = /path/to/openweathermap-mini.sh
 interval = 600
 label-maxlen = 20
 ```
-
-click-left = cmus-remote -n &
-click-right = cmus-remote -r &
-click-middle = cmus-remote -u &
-label-maxlen = 50
